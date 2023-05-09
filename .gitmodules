@@ -1,0 +1,3 @@
+[submodule "construct-hub"]
+	path = construct-hub
+	url = https://github.com/cdklabs/construct-hub
